@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE resources [
+    <!ENTITY TERMUX_PACKAGE_NAME "com.winlator">
+    <!ENTITY TERMUX_X11_APP_NAME "TurboWin:X11">
+    ]>
+<resources>
+    <string name="app_name">TurboWin Emulator</string>
+    
+    <string name="run">Chalao</string>
+    <string name="edit">Sudharo</string>
+    <string name="remove">Hatao</string>
+    <string name="add">Naya Jodo</string>
+    <string name="shortcuts">Shortcuts</string>
+    <string name="containers">My Games</string>
+    <string name="input_controls">Game Controls</string>
+    
+    <string name="new_container">Naya Optimized Container</string>
+    <string name="edit_container">Settings Sudharo</string>
+    <string name="creating_container">Container Ban raha hai...</string>
+    <string name="starting_up">Starting Turbo Mode...</string>
+    
+    <string name="video_memory_size">Video Memory (RAM Fix)</string>
+    <string name="screen_size">Resolution (Low-End Fix)</string>
+    <string name="graphics_driver">Graphics Driver (Turnip recommended)</string>
+    <string name="dxwrapper">DX Engine (DXVK Async)</string>
+    
+    <string name="unable_to_install_system_files">Error: Storage full hai ya permission nahi hai</string>
+    <string name="low_memory_warning">Warning: Low RAM detect hui hai!</string>
+</resources>
